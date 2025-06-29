@@ -2,19 +2,19 @@
   {
   "id" : 1,
   "title" : "mdtring rogrmmin in 5 menut",
-  "thumbnil_url" : "",
+  "thumbnil_url" : "https://raw.githubusercontent.com/Ritesh-yr/AndroidNewsServer/refs/heads/main/images/download.jpeg",
   "content_url" : "https://github.com/Ritesh-yr/AndroidNewsServer/blob/main/news/artical_1.md"
    },
    {
   "id" : 2,
   "title" : "mdtringzdfhdhs rogrmmin in 5 menut",
-  "thumbnil_url" : "",
+  "thumbnil_url" : "https://raw.githubusercontent.com/Ritesh-yr/AndroidNewsServer/refs/heads/main/images/download.jpeg",
   "content_url" :"https://github.com/Ritesh-yr/AndroidNewsServer/blob/main/news/artical_2.md"
    },
       {
   "id" : 3,
   "title" : "mdtring rogrmminsdhshsh in 5 menut",
-  "thumbnil_url" : "",
+  "thumbnil_url" : "https://raw.githubusercontent.com/Ritesh-yr/AndroidNewsServer/refs/heads/main/images/download.jpeg",
   "content_url" : "https://github.com/Ritesh-yr/AndroidNewsServer/blob/main/news/artical_3.md"
    }
 }
